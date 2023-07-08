@@ -1,11 +1,11 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
+    title: 'Building Infrastructure Securely',
     description: `What if you could look up any information in the world? Webpages, images, videos
     and more. Google has many features to help you find exactly what you're looking
     for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    imgSrc: '/static/images/devsec.png',
+    href: '/blog/the-time-machine',
   },
   {
     title: 'The Time Machine',
