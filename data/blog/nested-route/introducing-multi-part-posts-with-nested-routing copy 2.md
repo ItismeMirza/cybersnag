@@ -1,25 +1,19 @@
 ---
-title: Building a Full Stack Application
-date: '2024-06-10'
-tags: ['Angular', 'Web Application', 'Ubuntu']
+title: Current Day
+date: '2025-04-02'
+tags: ['self-reflection', 'Road-Map']
 draft: false
-summary: 'This post is a technical analysis of building a full stack SaaS application.'
+summary: 'So they asked whats up?'
 ---
 
-# Why Build a Saas Application?
+# Where Have I been?
 
-As I dive deeper into security concepts, I have come to find a strong interest in SaaS solutions. IT security is cool, with its connectwise software and Micorosft tenant migrations, however, with the ever growing amount of most needed solutions; it seems to be the way for me. 
+Reader, if you're wondering where I’ve been, rest assured—I’m back!
 
-## What is your Stack?
+I started my tech journey at a very high level of abstraction—just like most people. I vividly remember figuring out how disks work, simply because I couldn't always get Lego Star Wars to run on my original Xbox. I remember trying to connect my DS to my router just so I could trade Pokémon—rest assured, I learned some networking in the 2nd grade.
 
-- [MongoDB](https://www.mongodb.com/)
-- [Express.JS](https://expressjs.com/)
-- [Angular](https://angular.dev/)
-- [PostgreSQL](https://nodejs.org/en)
+When the iPhone 3GS was a thing, I got into jailbreaking and installing third-party packages—rest assured, I bricked my device multiple times. I could go on and on about my experiences with tech, but the point I want to drive home is this: all tech comes with problems.
 
-## What is the plan?
+My experience solving tech problems has sparked a deep passion for computers. Other than, well, the need to eat, I genuinely enjoy solving problems—especially when they’re built on a set of rules and patterns.
 
-While learning basic Web-Pentesting tactics, techniques, and procedures - it is apparent to me that I need to first understand the basic engineering of these
-SaaS applications. Although I have very little training with software engineering - my experience with AWS, virutal machines, Linux, and github will be a great start to building out this SaaS application. More to come in the next few days. Thanks for reading!
-
-
+This blog aims to document my journey—the good, the bad, and the ugly. One day, I hope it inspires someone out there to tackle some big problems of their own.
