@@ -4,8 +4,8 @@ const siteMetadata = {
   headerTitle: 'Cyber Snag',
   description: 'A proof-of-concept log, hosted on the internet',
   language: 'en-us',
-  theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
+  theme: 'dark', // system, dark or light
+  siteUrl: 'https://cybersnag.com',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
